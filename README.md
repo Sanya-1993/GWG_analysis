@@ -9,3 +9,10 @@ This code excerpt focuses on the Exploratory Data Analysis and Regression conduc
 
 A panel dataset was used for analysis containing GWG for those employed, political party affiliation, state-level pay transparency prohibition laws and their year of enactment as well as various control variables for the years 2010-2019. The final dataset was constructed at a state-year level. 
 
+
+## Pre-requisites
+
+The dataset used for analysis is given in the repository and is titled "GWG.csv".
+
+The following packages require installation:
+- conda install -c conda-forge ffmpeg (for generating maps)

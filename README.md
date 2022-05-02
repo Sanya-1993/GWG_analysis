@@ -3,7 +3,7 @@
 
 This study attempts to examine political party affiliation and enactment of pay transparency laws as determinants of state Gender Wage Gaps(GWGs) in the United States. While it was found that party affiliation is a prominent factor explaining GWGs, whether the state has a pay transparency law was not found to have a significant relationship with state GWGs. This finding has important implications as it highlights the need for further exploration of what policy measures can help to lower GWGs. Future work on the interactions between politics and policies can prove useful in informing the design of policies which can close gender-based wage gaps thereby enabling society to tap into the full potential of human capital.
 
-This code excerpt focuses on the Exploratory Data Analysis and Regression conducted to explore the determinants of GWGs in the United States
+This code excerpt focuses on the Exploratory Data Analysis and Regression conducted to explore the determinants of GWGs in the United States.
 
 ## Dataset Construction
 
